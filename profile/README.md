@@ -11,8 +11,9 @@ Absolutely! Feel free to jump in to any of our projects.
 ---
 ### Where are you?
 Somewhere... But you can find us on not only Github but Discord!
-https://discord.gg/JCHa4h4Y55
 Feel free to join the discussion!
+https://discord.gg/JCHa4h4Y55
+
 
 ---
 ### What's next?
