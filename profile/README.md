@@ -1,7 +1,7 @@
 # hurbIndustries
 
 ### Who are we?
-Originally started in 2018-2019 by Captainjamason and thouuu; We are an organization of like-minded individuals who like FOSS and interesting hardware.
+Originally started in 2018-2019 by Captainjamason and thou; We are an organization of like-minded individuals who like FOSS and interesting hardware.
 Our goal is to make software/hardware we are proud of, along with having the opportunity to grow our own skillsets through what we do.
 
 ---
